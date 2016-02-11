@@ -6,4 +6,9 @@
     android:title="@string/refresh"
     android:orderInCategory="100"
     />
+    <item
+        android:id="@+id/action_view_preferred_loc"
+        android:title="@string/pref_loc_view"
+        android:orderInCategory="100"
+        />
 </menu>
